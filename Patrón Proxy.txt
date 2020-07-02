@@ -1,0 +1,3 @@
+El patrón de Proxy permite generar una protección del programa porque sustituye el objeto original para controlar el acceso.
+
+En este programa es el más indicado debido a que es un programa de cuentas bancarias con lo cual al momento ingresar al programa genera la "protección" para el programa 
